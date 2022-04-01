@@ -1,12 +1,22 @@
 __Cunt or Not Cunt__
 
 note:Needs the internet!
-#####################################
+
+
+
 make fresh dir name it something fkn awesome:
 mkdir fkmyexwifeisacunt
 
 enter that dir:
 cd fkmyexwifeisacunt
+
+
+Download program and unzip into folder:
+wget https://github.com/jesuswithyoyo/cunt_or_NOTcunt.zip
+
+or use it clone if youre a proper nerd:
+git clone https://github.com/jesuswithyoyo/cunt_or_NOTcunt.git
+
 
 install vitual environment:Linux cause i dont know anythng else. Fk Win.doh!s
 python3 -m venv venv
