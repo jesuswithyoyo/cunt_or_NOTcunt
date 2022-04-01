@@ -7,8 +7,8 @@
 # Paste into this app.
 # Wait for processing and judgement.
 # Results display Cunt or Not Cunt
-#   and a % percentage rating too because
-#   they may be the Good Cunts.
+#   and a % percentage rating of 
+#   their cuntness.
 
 from requests import get
 from transformers import pipeline
