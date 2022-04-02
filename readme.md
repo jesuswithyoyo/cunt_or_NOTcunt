@@ -50,7 +50,9 @@ Along with the simple Cunt or Not Cunt
     there is a percentage of how much of cunt level too.
     ths is because some people are good cunts.
 
-###############################################################
+
+###################################
+
 Android app in development cause just cause im an awesome cunt.
 
 *AI Yoinked from Huggingface
@@ -58,7 +60,10 @@ Android app in development cause just cause im an awesome cunt.
 
 =Btron=] DumbNerd 2022
 
+
 #######################
+
+
 requirments.txt
 
 python==3.9
@@ -67,3 +72,13 @@ transformers==4.17.0
 requests==2.27.
 time
 sys
+
+#################
+
+Creation of virtual environments 
+(WinDozzzz included)
+
+https://docs.python.org/3/library/venv.html
+
+
+################
