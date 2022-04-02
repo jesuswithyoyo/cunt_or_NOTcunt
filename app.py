@@ -27,11 +27,18 @@ print("   | (__ | |_| || .` |  | |    | (_) ||   /  | .` || (_) | | |     | (__ 
 print("    \___| \___/ |_|\_|  |_|     \___/ |_|_\  |_|\_| \___/  |_|      \___| \___/ |_|\_|  |_|    ")
 print("")                                                                                              
 print("")
-text = input("Paste text: ")
+print("Note: you may need to reformat your text to remove multi lines. only 3 inputs allowed. ")
+inputtext1 = input("Paste text {1 of 3} : ")
+inputtext2 = input("Paste more {2 of 3} : ")
+inputtext3 = input("Paste even more {3 of 3} : ")
+
+textgroup = (str(inputtext1), str(inputtext2), str(inputtext3))
+
+text=''.join(textgroup)
+
+print("")
 print("Text recived = : ", text)
 print("")
-
-
 
 print("YOUR TEXT HAS BEEN SUMBITTED FOR JUDGEMENT")    
 animation = "|/-\\"
