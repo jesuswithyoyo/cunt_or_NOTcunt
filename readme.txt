@@ -18,7 +18,7 @@ or use it clone if youre a proper nerd:
 git clone https://github.com/jesuswithyoyo/cunt_or_NOTcunt.git
 
 
-install vitual environment:Linux cause i dont know anythng else. Fk Win.doh!s
+install vitual environment:Linux cause i dont know anythng else. Fk Win.doh!s link at bottom :]
 python3 -m venv venv
 
 activate virtual environment:
