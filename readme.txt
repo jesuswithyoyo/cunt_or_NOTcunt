@@ -5,10 +5,10 @@ note:Needs the internet!
 
 
 make fresh dir name it something fkn awesome:
-mkdir fkmyexwifeisacunt
+mkdir fkEveryoneElseImAwesomeDIR
 
 enter that dir:
-cd fkmyexwifeisacunt
+cd fkEveryoneElseImAwesomeDIR
 
 
 Download program and unzip into folder:
